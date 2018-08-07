@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-size: 36px; }
+
+button {
+  border-radius: 2px;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  padding: 5px;
+  margin: 10px;
+  font-size: 36px; }
+  button:hover {
+    background-color: black;
+    color: white; }
+
+.timer {
+  padding: 10px;
+  margin: 10px; }
+
+ul {
+  padding: 0;
+  display: inline-block; }
+  ul li {
+    list-style: none; }
